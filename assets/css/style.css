@@ -1,0 +1,291 @@
+body {
+    width: 100%;
+    background-color:rgb(143, 191, 219);
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: Inter;
+    text-decoration: none;
+    border: none;
+}
+.hero {
+    margin: auto;
+    width: 1440px;
+    height: 866px;
+    background-color: white;
+    justify-content: space-between;
+}
+.header {
+    width: 1440px;
+    height: 72px;
+    position: absolute;
+}
+.left-nav {
+    padding-top: 22px;
+    padding-left: 165px;
+}
+.logo {
+    color: #8C30F5;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+}
+.flex {
+    display: flex;
+}
+.nav-items {
+    justify-content: space-between;
+    width: 305px;
+    height: 20px;
+    margin-left: 28px;
+    margin-top: 4px;
+}
+.nav-items a {
+    text-decoration: none;
+    color: #18191F;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+.content {
+    width: 540px;
+    height: 356px;
+    padding-top: 291px;
+    padding-left: 165px;
+}
+h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    color: #18191F;
+}
+.content-txt i {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color: #18191F;
+    width: 540px;
+    height: 64px;
+}
+button {
+    width: 179px;
+    height: 48px;
+    color: #ffffff;
+    border-radius: 6px;
+    margin-top: 32px;
+    background-color:#8C30F5 ;
+    font-size: 20px;
+    line-height: 24px;
+    border-radius: 6px;
+    border:none;
+}
+.creative-block {
+    width: 610px;
+    height: 866px;
+    background-color: #18191F;
+}
+.c1 {
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    width: 144px;
+    height: 72px;
+    background: #FFC3D8;
+    margin-top: 134px;
+    margin-left: -28px;
+}
+.user1 {
+    margin-top: 56px;
+    margin-left:-64px ;
+    width: 128px;
+    height: 128px;
+    background: url(../img/User\ 1.svg);
+}
+.user2 {
+    margin-left: -161px;
+    width: 208px;
+    height: 208px;
+    background: url(../img/User\ 2.svg);
+}
+.Dota {
+    margin-left: 369px;
+    width: 68px;
+    height: 68px;  
+    background: url(../img/Dots.svg) right;
+}
+.user3sh {
+    width: 114px;
+    height: 114px;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 101.75%);
+    transform: rotate(1deg);
+    background: url(..//img/Pattern.svg);
+    margin-left: 102.39px;
+    margin-top: 120.39px;
+}
+.user3 {
+    position: relative;
+    width: 112px;
+    height: 112px;
+    background: url(../img/User\ 3.svg);
+    margin-top: 100px;
+    margin-left: -148px;
+}
+.user4 {
+    width: 152px;
+    height: 152px;
+    background: url(../img/User\ 4.svg);
+    margin-top: 192px;
+    margin-left: 166px;
+}
+.c2 {
+    margin-left: 47px;
+    margin-top: 43px;
+    width: 65px;
+    height: 72px;
+    background: #C1E5C0;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    border-radius: 100% 0 0 0 / 100% 0 0 0;
+}
+.c3 {
+    margin-top: 60px;
+    width: 72px;
+    height: 72px;
+    margin-left: 256px;
+    background: #A0DCFF;
+    transform: rotate(-90deg);
+    border-radius:  0 100% 0 0 / 0 100% 0 0;
+}
+.logoClouds {
+    width: 1440px;
+    height: 222px;
+    background: #FFFFFF;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 86px;
+}
+.headingbox {
+    width: 350px;
+    height: 136px;
+    padding-left: 165px;
+}
+.logos {
+    width: 730px;
+    height: 180px;
+    padding-right: 165px;
+}
+.number {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    color: #18191F;
+    width: 350px;
+    height: 64px;
+}
+.txtlogo {
+    margin-top: 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    width: 350px;
+    height: 64px;
+}
+.row1 {
+    width: 730px;
+    height: 90px;
+}
+.ablog {
+    background: url(../img/Vector.svg);
+}
+.amazonlog {
+    background: url(../img/Amazon\ Logo.svg);
+
+}
+.fdlog {
+    background: url(../img/FedEx\ Logo.svg)
+
+}
+.microsoftlog {
+    background: url(../img/Microsoft\ Logo.svg);
+
+}
+.row1 div {
+    width: 160px;
+    height: 90px;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.row2 div {
+    width: 160px;
+    height: 90px;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.google {
+    background: url(../img/Google\ Logo.svg);
+}
+.ola {
+    background: url(../img/OLA\ logo.svg);
+}
+.walmart {
+    background: url(../img/Walmart\ Logo.svg);
+}
+.oyo {
+    background: url(../img/OYO\ Logo.svg);
+}
+.testimonial {
+    width: 1440px;
+    max-height: 610px;
+    background: #8C30F5;
+    margin: auto;
+}
+.sectiontitle {
+    padding-top: 80px;
+    padding-left: 163px;
+    width: 730px;
+    height: 64px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+.testimonials {
+    width: 1110px;
+    height: 304px;
+    padding-left: 165px;
+    padding-top: 32px;      
+}
+.txtcontainer {
+    max-Width: 540px;
+    max-Height: 220px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+    padding: 32px 32px 8px 32px; 
+}
+.subtitle {
+    margin-bottom: 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #18191F;
+}
+.txt {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #18191F;
+}
