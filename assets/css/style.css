@@ -592,3 +592,78 @@ height: 311px;
 }
 
 /* конец 5 блока*/
+
+.feature {
+  width: 1275px;
+  height: 540px;
+  padding-top: 64px;
+  padding-left: 165px;
+  padding-bottom: 64px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.creative {
+  background-image: url(../img/Creative.svg);
+  width: 540px;
+  height: 540px;
+  margin-right: 30px;
+}
+.content6 {
+  width: 540px;
+  height: 328px;
+  margin-top: 106px;
+}
+.ladersection{
+  margin-left: 48px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  color: #2EC5CE;
+}
+.heafline {
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #18191F;
+  margin-left: 48px;
+  margin-top: 8px;
+  margin-bottom: 32px;
+}
+.featertxt {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-bottom: 32px;
+  color: #18191F;
+}
+.featerbatton {
+  margin-left: 48px;
+  width: 145px;
+  height: 24px;
+  text-decoration: none;
+}
+.label6 {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #8C30F5;
+  margin-right: 8px;
+}
+.icon6{
+  width: 24px;
+  background-image: url(../img/right-arrow.svg);
+}
+
+/*конец 6 блока---------------------------------------------------------------------*/
+
+.cta5 {
+  margin: 0 auto;
+  background-color: #ffffff;
+  width: 1110px;
+  height: 352px;
+  padding-left: 165px;
+  padding-top: 64px;
+  padding-right: 165px;
+}
