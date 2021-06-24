@@ -667,3 +667,34 @@ height: 311px;
   padding-top: 64px;
   padding-right: 165px;
 }
+.cta5-bg {
+  background-image: url(../img/BG\ Mask.svg)  ;
+  width: 1110px;
+  height: 288px;
+}
+.illustration {
+  margin-left: 185px;
+  width: 175px;
+  height: 160px;
+  background: url(../img/Illustration.svg);
+}
+.omg {
+  height: 64px;
+  width: 2px;
+}
+.content5 {
+  width: 445px;
+  width: 198px;
+  margin-left: 185px;
+  justify-content: space-between;
+}
+.txt5 {
+  width: 445px;
+  height: 108px;
+  margin-top: 48px;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #FFFFFF;
+  margin-bottom: 35px;
+}
