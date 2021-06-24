@@ -74,7 +74,7 @@ h1 {
     width: 540px;
     height: 64px;
 }
-button {
+.button {
     width: 179px;
     height: 48px;
     color: #ffffff;
@@ -685,8 +685,8 @@ height: 311px;
 .content5 {
   width: 445px;
   width: 198px;
-  margin-left: 185px;
-  justify-content: space-between;
+  margin-left: 120px;
+
 }
 .txt5 {
   width: 445px;
@@ -697,4 +697,35 @@ height: 311px;
   line-height: 54px;
   color: #FFFFFF;
   margin-bottom: 35px;
+}
+.email {
+  width: 248px;
+  height: 52px;
+  background: #FFFFFF;
+  border-radius: 5px 0 0 5px;
+  margin-top: 3px;
+}
+.Email {
+  outline:none;
+  color: #474A57;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 13px;
+  margin-bottom: 3px;
+  border: none;
+  text-align: center;
+}
+.mailinput {
+  width: 403px;
+  height: 58px;
+}
+.buttoncta5 {
+  width: 155px;
+  height: 58px;
+  background: #18191F;
+  border-radius: 0px 5px 5px 0px;
+  align-items: center;
+  color: #FFFFFF;
+  border: none;
 }
