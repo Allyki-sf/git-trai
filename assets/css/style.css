@@ -3,7 +3,6 @@ body {
     background-color:rgb(143, 191, 219);
     margin: 0 auto;
     box-sizing: border-box;
-    font-family: Inter;
     text-decoration: none;
     border: none;
 }
@@ -29,7 +28,6 @@ body {
 }
 .logo {
     color: #8C30F5;
-    font-style: normal;
     font-weight: bold;
     font-size: 20px;
     line-height: 24px;
@@ -47,7 +45,6 @@ body {
 .nav-items a {
     text-decoration: none;
     color: #18191F;
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -59,14 +56,12 @@ body {
     padding-left: 165px;
 }
 h1 {
-    font-style: normal;
     font-weight: 800;
     font-size: 72px;
     line-height: 98px;
     color: #18191F;
 }
 .content-txt i {
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 32px;
@@ -179,8 +174,6 @@ h1 {
     padding-right: 165px;
 }
 .number {
-    font-family: Inter;
-    font-style: normal;
     font-weight: 800;
     font-size: 48px;
     line-height: 64px;
@@ -190,8 +183,6 @@ h1 {
 }
 .txtlogo {
     margin-top: 8px;
-    font-family: Inter;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 32px;
@@ -255,8 +246,6 @@ h1 {
   padding-left: 163px;
   width: 730px;
   height: 64px;
-  font-family: Inter;
-  font-style: normal;
   font-weight: 800;
   font-size: 48px;
   line-height: 64px;
@@ -373,8 +362,6 @@ height: 311px;
 }
 .subtitle {
   margin-bottom: 8px;
-  font-family: Inter;
-  font-style: normal;
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
@@ -382,8 +369,6 @@ height: 311px;
   padding-top: 32px;
 }
 .txt {
-  font-family: Inter;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -424,15 +409,11 @@ height: 311px;
   color: #FFFFFF;
 }
 .jane {
-  font-family: Inter;
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 28px;
 }
 .seo {
-  font-family: Inter;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -578,14 +559,12 @@ height: 311px;
   opacity: 0.7;
 }
 .heading {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
   color: #18191F;
 }
 .descri {
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
